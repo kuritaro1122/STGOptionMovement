@@ -26,7 +26,7 @@
 
 ![image](/img/inspectorView.png)
 
-## public Function
+## Public Function
 ```
 void Update_()
 ```
