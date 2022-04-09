@@ -1,7 +1,7 @@
 # STG Option Movement
 
-GameObjectにHPと攻撃力を付与し、それらのステータスを管理する。
-Entity同士が接触した時に自動的に相互にダメージを与える。
+オブジェクトの座標と回転を一定距離空けてトレースする。\
+[HyperNova](https://kuritaro1122.github.io/HyperNova-Web/)のオプション砲移動処理にこのプログラムを使用しています。
 
 # DEMO
 ![gif](/img/demo.gif)
